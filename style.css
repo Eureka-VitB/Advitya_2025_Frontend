@@ -64,7 +64,7 @@ body {
     top: calc(50px + 400px); /* 400px gap from question mark icon */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%);
-    background: url("");
+    background: url("mini-map.jpg");
     margin: 50%;
     width: 150px;
     height: 150px;
